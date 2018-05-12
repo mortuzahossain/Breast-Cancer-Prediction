@@ -17,6 +17,11 @@ train-test.ipynb
 cancer-prediction-model.pkl
 ```
 
+# See The Differance Between Classifier Accuracy And Chose As You Needed
+```
+Comparing Different Classifier.ipynb
+```
+
 ### If Anyone have interest enough to make it more efficient for user then please create an UI using QTPY , PyTk or any other framework .
 
 Wish you best of luck for using this code.
